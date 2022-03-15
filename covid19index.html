@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Covid-19 Prediction</title>
+    <style>
+        body {
+            background-color: #fad2e1;
+        }
+        
+        form {
+            width: 1000px;
+            border: 1px solid gray;
+            padding: 20px;
+            margin-bottom: 20px;
+            font-size: 22px;
+        }
+        
+        h1 {
+            color: #ef476f;
+        }
+        
+        input {
+            width: 200px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="login">
+        <h1>Know If You Are Affected By Covid-19 Or Not</h1>
+
+        <form action="/ci" method="post">
+            <div class="mb-3">
+                Enter Dry Cough Rate
+                <input type="text" name="drycough" max="20" min="0" placeholder="Enter a number in 0-20" required="required" />
+            </div>
+            <br>
+            <div class="mb-3">
+                Enter Fever Rate
+                <input type="text" name="fever" max="20" min="0" placeholder="Enter a number in 0-20" required="required" />
+            </div>
+            <br>
+            <div class="mb-3">
+                Enter Sore Throat Rate
+                <input type="text" name="sorethroat" max="20" min="0" placeholder="Enter a number in 0-20" required="required" />
+            </div>
+            <br>
+            <div class="mb-3">
+                Enter Breathing Problem Rate
+                <input type="text" name="breathingprob" max="20" min="0" placeholder="Enter a number in 0-20" required="required" />
+            </div>
+            <br>
+
+            <input type="submit" class="btn btn-primary btn-block btn-large" value="Predict">
+        </form>
+
+        <br>
+        <br> {{ prediction_text2 }}
+
+    </div>
+
+
+</body>
+
+</html>
