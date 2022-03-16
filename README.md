@@ -4,7 +4,9 @@
   
   ![image](https://user-images.githubusercontent.com/78029145/153434524-ca6c416b-3f8e-43ca-8174-6f68789209a5.png)
 
-This app is used to predict the current medical state of an individual and also includes a section which will provide some medical guidelines to anyone who is affected by any common disease from the disease prediction section.
+## Overview of the App
+
+This app is used to predict the current medical state of an individual regarding 3 most common diseases and also includes a section which will provide some medical guidelines to anyone who is affected by any common disease from the disease prediction section.
 
 The disease sections include ->
 
