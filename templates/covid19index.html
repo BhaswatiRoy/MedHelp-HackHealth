@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Covid-19 Prediction</title>
     <style>
+        /* Various CSS stylings added  */
         body {
             background-color: #fad2e1;
         }
@@ -29,8 +30,11 @@
 
 <body>
     <div class="login">
+        <!-- Main Heading added -->
         <h1>Know If You Are Affected By Covid-19 Or Not</h1>
-
+        
+        <!-- Form Code Starts which takes 4 features as input -->
+        <!-- The 4 features are - Dry Cough Rate, Fever Rate, Sore Throat Rate, Breathing Problem Rate -->
         <form action="/ci" method="post">
             <div class="mb-3">
                 Enter Dry Cough Rate
@@ -57,7 +61,9 @@
         </form>
 
         <br>
-        <br> {{ prediction_text2 }}
+        <br> 
+        <!-- The variable which stores and displays the prediction to the user -->
+        {{ prediction_text2 }}
 
     </div>
 
