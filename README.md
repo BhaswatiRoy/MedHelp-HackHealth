@@ -61,7 +61,7 @@ The feature selection is carefully done under the supervision of a medical scien
 
 ### 3. Covid-19 Prediction Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/158957322-5e76792c-201e-4743-8a74-2b2c736d3b40.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/158957381-87c25f0b-3559-40d8-b911-b6f6b5fc4a50.png" width="1010"
+<img src="https://user-images.githubusercontent.com/78029145/158957322-5e76792c-201e-4743-8a74-2b2c736d3b40.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/158957381-87c25f0b-3559-40d8-b911-b6f6b5fc4a50.png" width="1010">
 </pre>
 
 ### 4. Heart Disease Prediction Section
