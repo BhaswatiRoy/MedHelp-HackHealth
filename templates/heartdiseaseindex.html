@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Heart Disease Prediction</title>
     <style>
+        /* Various CSS stylings added  */
         body {
             background-color: #dde5b6;
         }
@@ -29,8 +30,11 @@
 
 <body>
     <div class="login">
+        <!-- Main Heading added -->
         <h1>Know If You Are Affected By Heart Disease Or Not</h1>
-
+        
+        <!-- Form Code Starts which takes 4 features as input -->
+        <!-- The 4 features are - Chest Pain Rate, Blood Pressure Rate, Cholestrol Rate, Maximum Heart Rate -->
         <form action="/hi" method="post">
             <div class="mb-3">
                 Enter Chest Pain Rate
@@ -57,7 +61,9 @@
         </form>
 
         <br>
-        <br> {{ prediction_text3 }}
+        <br> 
+        <!-- The variable which stores and displays the prediction to the user -->
+        {{ prediction_text3 }}
 
     </div>
 
