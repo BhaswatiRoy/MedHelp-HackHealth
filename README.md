@@ -10,11 +10,11 @@ This app is used to predict the current medical state of an individual regarding
 
 The disease sections include ->
 
-**1. Covid-19**
+**1. Covid-19 Prediction Section**
 
-**2. Diabetes**
+**2. Diabetes Prediction Section**
 
-**3. Heart Disease**
+**3. Heart Disease Prediction Section**
 
 ## Tech Stacks Used
 
@@ -85,7 +85,7 @@ Open Anaconda Prompt -
 
 1.1 `git clone <repo link>`
 
-1.2 `cd Resume-analyzer`
+1.2 `cd MedHelp-HackHealth`
 
 1.3 `pip install -r requirements.txt `
 
