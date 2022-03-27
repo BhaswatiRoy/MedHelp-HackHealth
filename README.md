@@ -78,3 +78,15 @@ The feature selection is carefully done under the supervision of a medical scien
 <pre>
 <img src="https://user-images.githubusercontent.com/78029145/159028682-8e8769d5-e588-4fce-96ea-05223d01f55f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/159028764-3ad5b97d-cb24-4766-a205-07aee4675c98.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/159028835-b06ff20e-bc4e-4a05-9e28-219b94a46c64.png" width="1010">
 </pre>
+
+## Run Locally
+
+Open Anaconda Prompt -
+
+1.1 `git clone <repo link>`
+
+1.2 `cd Resume-analyzer`
+
+1.3 `pip install -r requirements.txt `
+
+1.4 `python run app.py`
