@@ -74,7 +74,7 @@ The feature selection is carefully done under the supervision of a medical scien
 <img src="https://user-images.githubusercontent.com/78029145/158957765-d229878e-c2b7-45fb-9006-2bd05082b953.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/158957853-bdc7aafd-3975-4825-bc31-f4c407e69542.png" width="1010">
 </pre>
 
-## 5. Medical Suggestions Section
+### 5. Medical Suggestions Section
 <pre>
 <img src="https://user-images.githubusercontent.com/78029145/159028682-8e8769d5-e588-4fce-96ea-05223d01f55f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/159028764-3ad5b97d-cb24-4766-a205-07aee4675c98.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/159028835-b06ff20e-bc4e-4a05-9e28-219b94a46c64.png" width="1010">
 </pre>
