@@ -46,6 +46,10 @@ The disease sections include ->
 
 The feature selection is carefully done under the supervision of a medical science student.
 
+## Model Deployment
+
+- The app is deployed using python library -> Flask and finally deployed on Heroku.
+
 ## Future Prospects
 
 - Addition of more disease prediction sections to cover more segments of medical domain
