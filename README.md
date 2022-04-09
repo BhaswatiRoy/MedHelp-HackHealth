@@ -48,7 +48,9 @@ The feature selection is carefully done under the supervision of a medical scien
 
 ## Model Deployment
 
-- The app is deployed using python library -> Flask and finally deployed on Heroku.
+- The web application is built using python library -> Flask and Web Programming languages -> HTML, CSS, Bootstrap
+- The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
+- See the deployed application [here](https://medhelp-hackhealth.herokuapp.com/).
 
 ## Future Prospects
 
